@@ -1,0 +1,44 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekat.Etiketa"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="Projekat.Etiketa.EtiketaIzmena"
+        mc:Ignorable="d"
+        Title="Izmena podataka o etiketi" Height="500" Width="800"
+		FontSize="20">
+	<Window.Resources>
+		<Style x:Key="{x:Type ToolTip}" TargetType="{x:Type ToolTip}">
+			<Setter Property="FontSize" Value="20"/>
+		</Style>
+	</Window.Resources>
+	<Border BorderBrush="Violet" BorderThickness="5">
+		<Grid>
+			<Grid Margin="0,0,305,0" Background="LemonChiffon">
+				<Label Content="Oznaka:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.142,0.173" Height="38" Width="104"/>
+				<TextBox x:Name="oznaka_tb" Text="{Binding Oznaka}" IsEnabled="False" HorizontalAlignment="Left" Height="51" Margin="10,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="251" ToolTip="Obavezan unos oznake etikete. Dozvoljen je samo unos slova,brojeva i razmaka.Za veliko slovo koristiti dugme TAB"/>
+				<Label Content="Opis:" HorizontalAlignment="Left" Margin="10,144,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.142,0.173" Height="38" Width="104"/>
+				<TextBox x:Name="opis_tb" Text ="{Binding Opis}" HorizontalAlignment="Left" Height="212" Margin="10,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="251"/>
+				<Label Content="Polja označena zvezdicom (*) su obavezna" HorizontalAlignment="Left" Margin="10,413,0,0" VerticalAlignment="Top" Foreground="Red" FontWeight="Bold"/>
+			</Grid>
+
+			<Grid HorizontalAlignment="Left" Height="176" Margin="492,143,0,0" VerticalAlignment="Top" Width="300"/>
+			<Grid Background="LemonChiffon" HorizontalAlignment="Left" Height="141" Margin="457,319,0,0" VerticalAlignment="Top" Width="325">
+				<Grid.RowDefinitions>
+					<RowDefinition Height="24*"/>
+					<RowDefinition Height="77*"/>
+				</Grid.RowDefinitions>
+				<Button Content="Izmeni" HorizontalAlignment="Left" Margin="10,51,0,0" VerticalAlignment="Top" Width="122" Height="41" Grid.Row="1" Click="Izmeni"/>
+				<Button Content="Odustani" HorizontalAlignment="Left" Margin="170,52,0,0" VerticalAlignment="Top" Width="122" Height="41" Grid.Row="1" Click="Odustani"/>
+			</Grid>
+			<Grid Background="LemonChiffon" HorizontalAlignment="Left" Height="143" Margin="457,0,0,0" VerticalAlignment="Top" Width="325">
+
+				<Label Content="Odabir boje" HorizontalAlignment="Left" Margin="68,32,0,0" VerticalAlignment="Top" Height="44" Width="167"/>
+				<xctk:ColorPicker SelectedColor="{Binding Mediacolor}" SelectedColorChanged="colorChanged" Name="cmbColors" HorizontalAlignment="Left" Margin="31,81,0,0" VerticalAlignment="Top" Width="231" Height="45" ToolTip="Obavezan odabir boje"/>
+			</Grid>
+			<Label Content="*" HorizontalAlignment="Left" Margin="266,64,0,0" VerticalAlignment="Top" Foreground="Red" FontWeight="Bold"/>
+			<Label Content="*" HorizontalAlignment="Left" Margin="724,88,0,0" VerticalAlignment="Top" Foreground="Red" FontWeight="Bold" Width="24"/>
+		</Grid>
+	</Border>
+</Window>

@@ -1,0 +1,49 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekat.Etiketa"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="Projekat.Etiketa.EtiketaDodaj"
+        mc:Ignorable="d"
+        Title="Dodavanje etikete" Height="500" Width="800"
+		FontSize="20">
+	<Window.Resources>
+		<Style x:Key="{x:Type ToolTip}" TargetType="{x:Type ToolTip}">
+			<Setter Property="FontSize" Value="20"/>
+		</Style>
+	</Window.Resources>
+
+
+	<Border BorderBrush="Blue" BorderThickness="5">
+		<Grid>
+			<Grid Margin="0,0,305,0" Background="LemonChiffon">
+				<Label Content="Oznaka:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.142,0.173" Height="38" Width="104"/>
+				<TextBox x:Name="oznaka_tb" HorizontalAlignment="Left" Height="51" Margin="10,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="251" Text="{Binding Oznaka, UpdateSourceTrigger=PropertyChanged}"  ToolTip="Obavezan unos oznake etikete. Dozvoljen je samo unos brojeva,slova i razmaka.Za veliko slovo koristi dugme TAB." KeyDown="OznakaTB_KeyDown"/>
+				<Label Content="Opis:" HorizontalAlignment="Left" Margin="10,144,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.142,0.173" Height="38" Width="104"/>
+				<TextBox x:Name="opis_tb" HorizontalAlignment="Left" Height="212" Margin="10,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="251" Text="{Binding Opis, Mode=TwoWay}"/>
+				<Label Content="Polja označena zvezdicom (*) su obavezna" HorizontalAlignment="Left" Margin="10,413,0,0" VerticalAlignment="Top" Width="422" Foreground="Red" FontWeight="Bold"/>
+
+			</Grid>
+
+			<Grid HorizontalAlignment="Left" Height="176" Margin="492,143,0,0" VerticalAlignment="Top" Width="300"/>
+			<Grid Background="LemonChiffon" HorizontalAlignment="Left" Height="141" Margin="458,319,0,0" VerticalAlignment="Top" Width="324">
+				<Grid.RowDefinitions>
+					<RowDefinition Height="24*"/>
+					<RowDefinition Height="77*"/>
+				</Grid.RowDefinitions>
+				<Button Content="Dodaj" HorizontalAlignment="Left" Margin="10,51,0,0" VerticalAlignment="Top" Width="122" Height="41" Grid.Row="1" Click="Dodaj"/>
+				<Button Content="Odustani" HorizontalAlignment="Left" Margin="170,52,0,0" VerticalAlignment="Top" Width="122" Height="40" Grid.Row="1" Click="Odustani"/>
+			</Grid>
+			<Grid Background="LemonChiffon" HorizontalAlignment="Left" Height="143" Margin="458,0,0,0" VerticalAlignment="Top" Width="324">
+
+				<Label Content="Odabir boje:" HorizontalAlignment="Left" Margin="74,27,0,0" VerticalAlignment="Top" Height="44" Width="167"/>
+				<xctk:ColorPicker SelectedColorChanged="colorChanged" Name="cmbColors" HorizontalAlignment="Left" Margin="23,88,0,0" VerticalAlignment="Top" Width="231" Height="45" ToolTip="Obavezan je izbor boje"/>
+			</Grid>
+
+			<Label Content="*" HorizontalAlignment="Left" Margin="266,64,0,0" VerticalAlignment="Top" Foreground="Red" FontWeight="Bold"/>
+			<Label Content="*" HorizontalAlignment="Left" Margin="717,89,0,0" VerticalAlignment="Top" Foreground="Red" FontWeight="Bold" Width="25"/>
+
+		</Grid>
+	</Border>
+</Window>

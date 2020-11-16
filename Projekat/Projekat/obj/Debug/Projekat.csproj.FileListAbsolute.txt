@@ -1,0 +1,252 @@
+C:\Users\Daltoni\source\repos\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Daltoni\source\repos\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\Daltoni\source\repos\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\App.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\MainWindow.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat.g.resources
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Tip\TipDodaj.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Tip\TipDodaj.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daltoni\source\repos\Projekat\Projekat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Projekat.csproj.CopyComplete
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Tip\pocetniTip.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\Tip\pocetniTip.baml
+C:\Users\Daltoni\source\repos\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daltoni\source\repos\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Daltoni\source\repos\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.pdb
+E:\New folder\Projekat\Projekat\bin\Debug\Projekat.exe.config
+E:\New folder\Projekat\Projekat\bin\Debug\Projekat.exe
+E:\New folder\Projekat\Projekat\bin\Debug\Projekat.pdb
+E:\New folder\Projekat\Projekat\bin\Debug\Newtonsoft.Json.dll
+E:\New folder\Projekat\Projekat\bin\Debug\Newtonsoft.Json.xml
+E:\New folder\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.pdb
+E:\New folder\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+E:\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Tip\pocetniTip.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Tip\TipDodaj.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\App.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\New folder\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+E:\New folder\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+E:\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.baml
+E:\New folder\Projekat\Projekat\obj\Debug\MainWindow.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..baml
+E:\New folder\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Tip\pocetniTip.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Tip\TipDodaj.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.baml
+E:\New folder\Projekat\Projekat\obj\Debug\Projekat.g.resources
+E:\New folder\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+E:\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+E:\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+E:\New folder\Projekat\Projekat\obj\Debug\Projekat.exe
+E:\New folder\Projekat\Projekat\obj\Debug\Projekat.pdb
+E:\Veljko\New folder\Projekat\Projekat\bin\Debug\Projekat.exe.config
+E:\Veljko\New folder\Projekat\Projekat\bin\Debug\Projekat.exe
+E:\Veljko\New folder\Projekat\Projekat\bin\Debug\Projekat.pdb
+E:\Veljko\New folder\Projekat\Projekat\bin\Debug\Newtonsoft.Json.dll
+E:\Veljko\New folder\Projekat\Projekat\bin\Debug\Newtonsoft.Json.xml
+E:\Veljko\New folder\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.pdb
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Tip\pocetniTip.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Tip\TipDodaj.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\App.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\MainWindow.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Tip\pocetniTip.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Tip\TipDodaj.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.baml
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat.g.resources
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.CopyComplete
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat.exe
+E:\Veljko\New folder\Projekat\Projekat\obj\Debug\Projekat.pdb
+G:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Projekat.exe.config
+G:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Projekat.exe
+G:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Projekat.pdb
+G:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Newtonsoft.Json.dll
+G:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Newtonsoft.Json.xml
+G:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.pdb
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\pocetniTip.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\TipDodaj.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\App.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\MainWindow.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\pocetniTip.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\TipDodaj.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.baml
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.g.resources
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.CopyComplete
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.exe
+G:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.pdb
+H:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Projekat.exe.config
+H:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Projekat.exe
+H:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Projekat.pdb
+H:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Newtonsoft.Json.dll
+H:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Newtonsoft.Json.xml
+H:\Od_kuce\New folder\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.pdb
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\pocetniTip.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\TipDodaj.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\App.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\MainWindow.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\pocetniTip.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\TipDodaj.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.baml
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.g.resources
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.csproj.CopyComplete
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.exe
+H:\Od_kuce\New folder\Projekat\Projekat\obj\Debug\Projekat.pdb
+G:\HCI\Projekat\Projekat\bin\Debug\Projekat.exe.config
+G:\HCI\Projekat\Projekat\bin\Debug\Projekat.exe
+G:\HCI\Projekat\Projekat\bin\Debug\Projekat.pdb
+G:\HCI\Projekat\Projekat\bin\Debug\Newtonsoft.Json.dll
+G:\HCI\Projekat\Projekat\bin\Debug\Newtonsoft.Json.xml
+G:\HCI\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.pdb
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+G:\HCI\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Tip\pocetniTip.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Tip\TipDodaj.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\App.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+G:\HCI\Projekat\Projekat\obj\Debug\Etiketa\EtiketaDodaj.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Etiketa\EtiketaIzmena.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Etiketa\OdabirEtiketa.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Etiketa\pocetniEtiketa.baml
+G:\HCI\Projekat\Projekat\obj\Debug\MainWindow.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Manifestacija\Manifestacija.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Manifestacija\ManifestacijaIzmena..baml
+G:\HCI\Projekat\Projekat\obj\Debug\Manifestacija\pocetni.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Tip\OdabirTipa.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Tip\pocetniTip.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Tip\TipDodaj.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Tip\TipIzmeni.baml
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat.g.resources
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat.csproj.CopyComplete
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat.exe
+G:\HCI\Projekat\Projekat\obj\Debug\Projekat.pdb

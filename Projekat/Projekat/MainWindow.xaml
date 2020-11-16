@@ -1,0 +1,119 @@
+﻿<Window x:Class="Projekat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+
+		xmlns:local="clr-namespace:Projekat.Model"
+		
+		
+        mc:Ignorable="d"
+        Title="Vođenje evidencije o mapi manifestacija" Height="900" Width="1600" WindowStartupLocation="CenterScreen" Icon="Slike/festival.png"
+		FontSize="20"
+		>
+	
+	<Window.CommandBindings>
+		<CommandBinding Command="local:Komande.ExitDemo" CanExecute="ExitDemo_CanExecute" Executed="ExitDemo_Executed"></CommandBinding>
+	</Window.CommandBindings>
+
+	<Window.Resources>
+		<BitmapImage x:Key="FolderOpen" UriSource="/Projekat;component/foldero.png"/>
+		<BitmapImage x:Key="FolderClosed" UriSource="/Projekat;component/folder.png"/>
+		<Style x:Key="SmallIcon" TargetType="Image">
+			<Setter Property="MaxWidth" Value="16"/>
+			<Setter Property="MaxHeight" Value="16"/>
+			<Setter Property="Margin" Value="1"/>
+		</Style>
+
+		<Style x:Key="{x:Type ToolTip}" TargetType="{x:Type ToolTip}">
+			<Setter Property="FontSize" Value="20"/>
+		</Style>
+
+	</Window.Resources>
+
+	
+
+	<Grid Background="LemonChiffon">
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+			<RowDefinition Height="2*"/>
+		</Grid.RowDefinitions>
+		<DockPanel Grid.RowSpan="2">
+			<Menu DockPanel.Dock="Top" FontSize="20">
+				<MenuItem Header="Manifestacija" Click="Manifestacija"></MenuItem>
+				<MenuItem Header="Etiketa" Click="Etiketa"></MenuItem>
+				<MenuItem Header="Tip" Click="Tipp"></MenuItem>
+				<MenuItem Header="Pomoć" Click="About_click" Name="About"/>
+				<MenuItem Header="Demo" ToolTipService.ShowDuration="20000" Click="demo_Begin" x:Name="demo_item" />
+			</Menu>
+			<StackPanel>
+				<Image Source="Slike/festival.png" Height="73" Width="41"/>
+			</StackPanel>
+		</DockPanel>
+
+		<TreeView Name="tree" HorizontalAlignment="Left" Height="432" Margin="10,160,0,0" VerticalAlignment="Top" Width="287" ItemsSource="{Binding tipovi}" SelectedItemChanged="tree_SelectedItemChanged" MouseMove="PrikazIkonice_MouseMove" PreviewMouseLeftButtonDown="PrikazIkonice_PreviewMouseLeftButtonDown" Grid.RowSpan="2">
+			<TreeView.Resources>
+				<HierarchicalDataTemplate DataType="{x:Type local:TipKlasa}" ItemsSource="{Binding manifestacije}">
+					<StackPanel Orientation="Horizontal">
+						<Image Margin="0,0,5,0">
+							<Image.Style>
+								<Style BasedOn="{StaticResource ResourceKey=SmallIcon}" TargetType="Image">
+									<Setter Property="Source" Value="{Binding Source={StaticResource ResourceKey=FolderClosed}, Mode=OneTime}"/>
+									<Style.Triggers>
+										<DataTrigger 
+                                                Binding="{Binding 
+                                                        RelativeSource={RelativeSource 
+                                                                AncestorType={x:Type TreeViewItem}}, 
+                                                                Path=IsExpanded}" 
+                                                Value="True">
+											<Setter Property="Source" Value="{Binding Source={StaticResource ResourceKey=FolderOpen}, Mode=OneTime}"/>
+										</DataTrigger>
+									</Style.Triggers>
+								</Style>
+							</Image.Style>
+						</Image>
+						<TextBlock Text="{Binding Naziv}"/>
+
+					</StackPanel>
+				</HierarchicalDataTemplate>
+				<DataTemplate DataType="{x:Type local:ManifestacijaKlasa}">
+					<StackPanel Orientation="Horizontal">
+						<TextBlock Text="{Binding Oznaka}" FontWeight="Bold"/>
+						<TextBlock Text=" ("/>
+						<TextBlock Text="{Binding Naziv}"/>
+						<TextBlock Text=")"/>
+					</StackPanel>
+				</DataTemplate>
+			</TreeView.Resources>
+			<TreeView.ItemContainerStyle>
+				<Style TargetType="{x:Type TreeViewItem}">
+					<Setter Property="IsExpanded" Value="True" />
+				</Style>
+			</TreeView.ItemContainerStyle>
+		</TreeView>
+
+		<Canvas x:Name="canvasMap" Margin="0,43,35,0" Width="1163" Height="762" VerticalAlignment="Top" HorizontalAlignment="Right" AllowDrop="True" Drop="dropOnMe_Drop" DragEnter="DropList_DragEnter" Grid.RowSpan="2">
+			<Canvas.Background>
+				<ImageBrush ImageSource="Slike/novisad.jpg"/>
+			</Canvas.Background>
+		</Canvas>
+
+		<Image x:Name="PrikazIkonice" HorizontalAlignment="Left" Height="100" Margin="107,332,0,0" VerticalAlignment="Top" Width="100" PreviewMouseLeftButtonDown="PrikazIkonice_PreviewMouseLeftButtonDown" MouseMove="PrikazIkonice_MouseMove" RenderTransformOrigin="-6.475,2.802" Cursor="Hand" Grid.Row="1"/>
+		<Button x:Name="ukloni" Content="Ukloni sa mape" HorizontalAlignment="Left" Margin="73,477,0,0" VerticalAlignment="Top" Width="194" Click="Ukloni_Click" Height="60" RenderTransformOrigin="-6.115,7.409" Grid.Row="1"/>
+		<Button x:Name="DodajManifestaciju_dugme" ToolTip="Dodavanje manifestacije" Margin="42,73,1492,163" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" RenderTransformOrigin="-15.333,-4.701" Height="54" Width="58" Click="DodajManifestaciju">
+			<Image Source="Slike/manifestacija4.png" RenderTransformOrigin="3.8,1.88"/>
+		</Button>
+
+		<Button ToolTip="Dodavanje etikete" Margin="107,73,1427,163" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" RenderTransformOrigin="-15.333,-4.701" Height="54" Width="58" Click="DodajEtiketu">
+			<Image Source="Slike/etiketaa.png"/>
+		</Button>
+
+		<Button ToolTip="Dodavanje tipa" Margin="170,73,1364,163" BorderThickness="0" Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" RenderTransformOrigin="-15.333,-4.701" Height="54" Width="58" Click="DodajTip">
+			<Image Source="Slike/tip.png"/>
+		</Button>
+
+	</Grid>
+
+
+
+</Window>
